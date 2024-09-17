@@ -1,0 +1,3 @@
+com/example/goodreads/service/PublisherJpaService.class
+com/example/goodreads/service/AuthorJpaService.class
+com/example/goodreads/service/BookJpaService.class

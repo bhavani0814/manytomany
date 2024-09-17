@@ -1,0 +1,3 @@
+2024-09-17 20:02:42 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]AUTHOR  * FROM BOOK"; expected "ALTER, ANALYZE"; SQL statement:
+AUTHOR  * FROM BOOK [42001-214]
